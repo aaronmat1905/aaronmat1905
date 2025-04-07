@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm Currently working projects in NLP and GenAI<br>I'm Intrested in NLP, Generative AI with LLMs and LLM Engineering
+Founder and AI Engineer at Lectify AI
+Know more about Lectify here -> https://lectify.super.site/
 
 
 ## 🌐 Socials:
