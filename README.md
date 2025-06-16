@@ -1,6 +1,6 @@
 # 💫 About Me:
 Founder and AI Engineer at Lectify AI
-Know more about Lectify here -> https://lectify.super.site/
+Know more about Lectify here -> https://www.lectify.in/
 
 
 ## 🌐 Socials:
