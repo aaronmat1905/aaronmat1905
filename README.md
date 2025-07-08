@@ -1,5 +1,5 @@
 # 💫 About Me:
-Founder and AI Engineer at Lectify AI
+Founder and AI Engineer at Lectify AI\
 Know more about Lectify here -> https://www.lectify.in/
 
 
