@@ -9,8 +9,9 @@ I'm into LLM Engineering, Generative AI, Machine Learning and Statistics. My wor
 * 🌍  I'm based in Bengaluru, Karnataka, India
 * ✉️  You can contact me at [aaronmat.work@gmail.com](mailto:aaronmat.work@gmail.com)
 * 🚀  I'm currently working on [Lectify](http://www.lectify.in)
-* 🧠  I'm currently learning Deep Learning | Graph-based ML | Statistics
+* 🧠  I'm currently learning Computational Social Science | Statistics | Generative AI with Deep Learning | Graphs in ML
 * 👥  I'm looking to collaborate on AI in Finance, Education, Life Sciences
+* I'm Exploring **Computational Social Science**
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/huggingface-colored-dark.svg" alt="Hugging Face" title="Hugging Face" width="36" height="36" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" alt="PyTorch" title="PyTorch" width="36" height="36" /></a>
