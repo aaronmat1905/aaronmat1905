@@ -10,7 +10,7 @@ I'm into LLM Engineering, Generative AI, Machine Learning and Statistics. My wor
 * ✉️  You can contact me at [aaronmat.work@gmail.com](mailto:aaronmat.work@gmail.com)
 * 🚀  I'm currently working on [Lectify](http://www.lectify.in)
 * 🧠  I'm currently learning Computational Social Science | Statistics | Generative AI with Deep Learning | Graphs in ML
-* 👥  I'm looking to collaborate on AI in Finance, Education, Life Sciences
+* 👥  I'm looking to collaborate on AI in Finance, Education, Computational Social Science
 * I'm Exploring **Computational Social Science**
 
 <p align="left">
