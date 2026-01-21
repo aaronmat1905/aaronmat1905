@@ -1,28 +1,107 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Aaron Thomas
-=====================================================================================================================================
+<h1 align="center">AARON MATHEW | TOKENIZED TECH</h1>
+<h3 align="center">⚡ Engineering Intelligence. Tokenizing Knowledge. Building AI Systems ⚡</h3>
 
-Building Lectify.in | Into AI and ML
-------------------------------------
-
-I'm into LLM Engineering, Generative AI, Machine Learning and Statistics. My work focuses on Building AI-powered solutions to educate, empower, and create meaningful impact across diverse fields.
-
-* 🌍  I'm based in Bengaluru, Karnataka, India
-* ✉️  You can contact me at [aaronmat.work@gmail.com](mailto:aaronmat.work@gmail.com)
-* 🚀  I'm currently working on [Lectify](http://www.lectify.in)
-* 🧠  I'm currently learning Computational Social Science | Statistics | Generative AI with Deep Learning | Graphs in ML
-* 👥  I'm looking to collaborate on AI in Finance, Education, Computational Social Science
-* I'm Exploring **Computational Social Science**
-
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/huggingface-colored-dark.svg" alt="Hugging Face" title="Hugging Face" width="36" height="36" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" alt="PyTorch" title="PyTorch" width="36" height="36" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFE1&center=true&width=600&height=45&lines=LLM+Engineer;NLP+%26+Generative+AI;Agentic+AI+Builder;Python+%26+Systems+Programmer;Because+Textbooks+Shouldn%27t+Be+Silent">
 </p>
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com/aaronmat1905" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.x.com/AaronTM1905" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" title="Twitter" /> </picture> </a> <a href="https://www.threads.net/@aaronmat1905" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" alt="Threads" title="Threads" /> </picture> </a> <a href="http://www.medium.com/@aaronmat1905" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" alt="Medium" title="Medium" /> </picture> </a> <a href="https://www.linkedin.com/in/aarontm19" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://www.facebook.com/@aaronmat1905" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" title="Facebook" /> </picture> </a></p>
-<a href="https://www.github.com/aaronmat1905" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/aaronmat1905?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+## 🧭 Signal Acquired
+> **"Intelligence is not magic.  
+> It is architecture, data, and disciplined reasoning."**
 
-<b>Top Repositories</b>
+I’m **Aaron Mathew** —  
+working at the intersection of **Large Language Models, NLP, Agentic AI, and system-level engineering**.
 
-<div width="100%" align="center"><a href="https://github.com/aaronmat1905/neural-noteworks" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=aaronmat1905&repo=neural-noteworks&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+I focus on **understanding AI from first principles**, not just using frameworks.
+
+---
+
+## 🧠 Core Stack (Systems & Intelligence)
+
+### 🤖 AI / ML / LLM Engineering
+![Python](https://img.shields.io/badge/Python-00ffea?style=for-the-badge&logo=python&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-ff3131?style=for-the-badge&logo=pytorch)
+![Transformers](https://img.shields.io/badge/Transformers-ffd000?style=for-the-badge)
+![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-00c2ff?style=for-the-badge)
+
+- LLM internals & prompt processing
+- Retrieval-Augmented Generation (RAG)
+- Multimodal RAG (text / image / video)
+- Synthetic data generation
+- Evaluation, reranking, and reasoning control
+- Agentic AI (manual, framework-free)
+
+---
+
+### 🧬 NLP & Data Systems
+![FAISS](https://img.shields.io/badge/FAISS-005571?style=for-the-badge)
+![Qdrant](https://img.shields.io/badge/Qdrant-6b4eff?style=for-the-badge)
+![Redis](https://img.shields.io/badge/Redis-dc382d?style=for-the-badge&logo=redis&logoColor=white)
+
+- Semantic search pipelines
+- Document ingestion (PDF, DOCX, scanned, unstructured)
+- Chunking, embeddings, indexing
+- Claim evaluation & literature review agents
+
+---
+
+### 🧠 Backend & Systems
+![FastAPI](https://img.shields.io/badge/FastAPI-00c7b7?style=for-the-badge&logo=fastapi)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00ffea)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+![Git](https://img.shields.io/badge/Git-ff6f00?style=for-the-badge&logo=git&logoColor=white)
+
+- FastAPI backends (HTTP + WebSockets)
+- Session management (Redis)
+- Kernel modules & low-level process handling
+- Reveal.js automation & presentation systems
+
+---
+
+## 🧪 Active Projects & Products
+- 🧠 **Lectify** — *Because textbooks shouldn’t be silent*  
+  → Auto-generating video lectures from educational material  
+- ⚖️ **Harmonia.ai** — AI-mediated workplace conflict resolution  
+- 📚 **The Tokenized Tech** — Concept-first AI education blog  
+- 🧬 Multimodal RAG with reranking and agentic workflows
+
+---
+
+## 🧩 Engineering Doctrine
+- 🧠 Understand before abstracting
+- 🧪 Build agents without hiding behind frameworks
+- 📊 Prefer reasoning over heuristics
+- 🧬 Data quality > model size
+- 🧱 Systems thinking over isolated features
+
+> **"If you can explain it without a library, you understand it."**
+
+---
+
+## 🌐 Connect
+<p align="left">
+  <a href="https://www.linkedin.com" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-00cfff?style=for-the-badge&logo=linkedin&logoColor=black">
+  </a>
+  <a href="https://github.com" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github">
+  </a>
+</p>
+
+---
+
+## 🧠 Capability Matrix
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,linux,fastapi,redis,pytorch,git,c&theme=dark" />
+</p>
+
+---
+
+### 🚀 Final Note
+> **"Most people use AI.  
+> Engineers design intelligence."**  
+
+⭐ Star what teaches you something.  
+📡 Build what you can explain.
